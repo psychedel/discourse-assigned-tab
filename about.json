@@ -1,17 +1,7 @@
 {
   "name": "Assigned Tab",
   "component": true,
-  "license_url": null,
-  "about_url": null,
-  "authors": null,
-  "theme_version": null,
-  "minimum_discourse_version": null,
-  "maximum_discourse_version": null,
-  "assets": {
-  },
-  "color_schemes": {
-  },
-  "modifiers": {
-  },
-  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+  "license_url": "https://github.com/lee-dohm/discourse-assigned-tab/blob/main/LICENSE.md",
+  "authors": "@lee-dohm, @francisfuzz, @nethgato",
+  "theme_version": "v0.1.0"
 }
