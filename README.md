@@ -6,6 +6,14 @@ A Discourse theme component that places a tab in the topics list called "Assigne
 
 [discourse-assign]: https://meta.discourse.org/t/discourse-assign/58044
 
+## Installation
+
+1. Navigate to `https://example.com/admin/customize/themes` where `example.com` is the hostname of your Discourse installation
+1. Click the "Install" button
+1. Click the "From a git repository" tab
+1. Enter https://github.com/lee-dohm/discourse-assigned-tab into the text box
+1. Click "Install"
+
 ## License
 
 [MIT](LICENSE.md)
